@@ -1,0 +1,7 @@
+Python is fun 
+Python 
+DRF 
+Django 
+Docker 
+Django is for web development
+Django is for web development
